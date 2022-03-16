@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_lisa_meliana/main_screen.dart';
+import 'package:quiz_saut_maaruli/main_screen.dart';
 
 import 'login_page.dart';
 
